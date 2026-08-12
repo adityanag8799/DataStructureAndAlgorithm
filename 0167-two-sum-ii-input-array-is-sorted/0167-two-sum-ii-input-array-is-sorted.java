@@ -20,3 +20,21 @@ class Solution {
     return result;
     }
 }
+
+/*
+Sorted Array
+        ↓
+Two Pointers
+        ↓
+Compare both ends
+        ↓
+Need larger value?
+    Move Left Pointer →
+
+Need smaller value?
+    Move Right Pointer ←
+
+Equal?
+    Return Answer
+
+*/
