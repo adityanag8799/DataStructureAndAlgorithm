@@ -50,3 +50,5 @@ class Solution
     return node.next;
     }
 }
+
+// The dummy node is used to handle the case where the head itself needs to be removed.
