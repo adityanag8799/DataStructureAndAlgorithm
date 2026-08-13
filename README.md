@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -34,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0042-trapping-rain-water) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/adityanag8799/DataStructureAndAlgorithm/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
