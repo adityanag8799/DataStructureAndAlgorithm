@@ -37,3 +37,13 @@ class Solution {
     return true;
     }
 }
+
+/*
+1. Keep two pointers at both ends.
+2. Maintain leftMax and rightMax.
+3. Process the side with the smaller height.
+4. Update max if current bar is taller.
+5. Otherwise, trap water = max - current height.
+6. Move that pointer inward.
+7. Continue until i >= j.
+*/
