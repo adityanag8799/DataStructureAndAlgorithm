@@ -5,22 +5,11 @@ class Solution {
     int trip=0;
     int i=0;
     int j=people.length-1;
-    int sum=0;
     while(i<=j)
     {
-        sum = people[i]+people[j];
-        if(sum<=limit)
-        {
+        if(people[i]+people[j]<=limit) i++;
         trip++;
-        i++;
         j--;
-        }
-        else
-        {
-        trip++;
-        j--; 
-        }
-
     }
       return trip;  
     }
